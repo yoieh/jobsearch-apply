@@ -1,0 +1,19 @@
+{
+  "name": "jobsearch-apply",
+  "version": "0.0.1",
+  "description": "Applys for jobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoieh/jobsearch-apply.git"
+  },
+  "author": "Yoieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoieh/jobsearch-apply/issues"
+  },
+  "homepage": "https://github.com/yoieh/jobsearch-apply#readme"
+}
