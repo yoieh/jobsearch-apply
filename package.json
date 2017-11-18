@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoieh/jobsearch-apply/issues"
   },
-  "homepage": "https://github.com/yoieh/jobsearch-apply#readme"
+  "homepage": "https://github.com/yoieh/jobsearch-apply#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.0"
+  }
 }
